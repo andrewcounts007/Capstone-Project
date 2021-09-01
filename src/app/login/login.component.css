@@ -1,0 +1,32 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+#titlediv {
+    position: static;
+    margin-top: 100px;
+    text-align: center;
+    
+
+}
+
+#welcome {
+    margin-top: 100px;
+    text-align: center;
+}
+
+#title {
+    color:yellow;
+    text-shadow: whitesmoke;
+   
+}
+
+#loginbtn {
+    
+}
+
+#registerbtn {
+    
+}
+
+#guestbtn {
+    
+}
