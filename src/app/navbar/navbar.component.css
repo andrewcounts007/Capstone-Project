@@ -1,3 +1,7 @@
-.toolbar {
-    background-color: teal;
+.nav {
+    position: fixed;
+    top: 0;
+    background-color: whitesmoke;
+    width: 100%;
+    
 }

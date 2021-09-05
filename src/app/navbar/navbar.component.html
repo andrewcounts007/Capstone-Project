@@ -1,7 +1,17 @@
-<mat-toolbar class ="toolbar">
-    <span routerLink = "/">About</span>
-    <span style="flex: 1 1 auto"></span>
-    <a routerLink = "/register">Register</a>
-</mat-toolbar>
+<ul class="nav">
+    <li class="nav-item">
+      <a class="nav-link active" routerLink="/main">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" routerLink="/login">Login</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" routerLink="/register">Register</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link " routerLink="/admin">Vender</a>
+    </li>
+  </ul>
+
 
 <router-outlet></router-outlet>
